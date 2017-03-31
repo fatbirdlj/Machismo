@@ -148,7 +148,6 @@
 				TargetAttributes = {
 					A9A6D67F1E81166D00AD1D61 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = FM8NZF3969;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -315,7 +314,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = FM8NZF3969;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Machismo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.fatbird.Machismo;
@@ -327,7 +326,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = FM8NZF3969;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Machismo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.fatbird.Machismo;
