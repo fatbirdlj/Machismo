@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ViewController titleForCard:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[title length]">
+            </PersistentString>
+            <PersistentString
+               value = "[@&quot;6&quot; length]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CardMatchingGame initWithCardCount:usingDeck:]:CardMatchingGame.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CardMatchingGame chooseCardAtIndex:]:CardMatchingGame.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController touchCardButton:]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController deck]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PlayingCardView drawPipsWithHorizontalOffset:verticalOffset:upsidedown:]:PlayingCardView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "hoffset != 0">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController game]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PlayingCardView drawRect:]:PlayingCardView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[PlayingCard rankStrings][self.card.rank]">
+            </PersistentString>
+            <PersistentString
+               value = "[NSString stringWithFormat:@&quot;%@%@&quot;, [PlayingCard rankStrings][self.card.rank], self.card.suit]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
